@@ -68,7 +68,7 @@ main {
     .profile-card__image {
       justify-self: center;
       border-radius: 100%;
-      width: clamp(3rem, 22cqw, 4rem);
+      width: clamp(80px, 30cqw, 90px);
     }
 
     .profile-card__user-details {
