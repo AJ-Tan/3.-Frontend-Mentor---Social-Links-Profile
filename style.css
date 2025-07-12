@@ -57,7 +57,7 @@ main {
   gap: var(--spacing-md-1);
   justify-self: center;
   padding: var(--spacing-lg);
-  width: clamp(15rem, 100%, 20rem);
+  width: clamp(15rem, 100%, 19rem);
 
   .profile-card__header,
   .profile-card__social-media {
