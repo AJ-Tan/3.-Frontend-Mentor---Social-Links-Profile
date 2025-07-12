@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/AJ-Tan/3.-Frontend-Mentor---Social-Links-Profile.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://aj-tan.github.io/3.-Frontend-Mentor---Social-Links-Profile/]
 
 ## My process
 
