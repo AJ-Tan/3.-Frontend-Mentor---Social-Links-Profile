@@ -44,9 +44,6 @@ Users should be able to:
 
 ### What I learned
 
-Anyone can code or replicate the design of this challenge,
-but not everyone will make it in such a way that it will be easy to read and organized.
-
 For this challenge, I focused on 2 things.
 
 1. Improve naming conventions of classes of my HTML Tags.
