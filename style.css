@@ -5,7 +5,7 @@
 }
 
 :root {
-  --font-size: 14px;
+  --font-size: 18px;
 
   --green: hsl(75, 94%, 57%);
   --grey-700: hsl(0, 0%, 20%);
@@ -61,7 +61,7 @@ main {
 
   .profile-card__header,
   .profile-card__social-media {
-    font-size: clamp(12px, 5.56cqw, var(--font-size));
+    font-size: clamp(16px, 5.56cqw, var(--font-size));
   }
 
   .profile-card__header {
