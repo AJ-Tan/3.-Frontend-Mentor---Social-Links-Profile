@@ -54,19 +54,15 @@ main {
   border-radius: 1rem;
   container-type: inline-size;
   display: grid;
-  gap: var(--spacing-md-1);
+  gap: var(--spacing-md);
   justify-self: center;
   padding: var(--spacing-lg);
   width: clamp(15rem, 100%, 19rem);
 
-  .profile-card__header,
-  .profile-card__social-media {
-    font-size: clamp(16px, 5.56cqw, var(--font-size));
-  }
-
   .profile-card__header {
     display: grid;
-    gap: var(--spacing-md-1);
+    font-size: clamp(14px, 6cqw, 18px);
+    gap: var(--spacing-md);
     text-align: center;
 
     .profile-card__image {
@@ -99,6 +95,8 @@ main {
   }
 
   .profile-card__social-media {
+    font-size: clamp(14px, 5.34cqw, 16px);
+
     .social-media__list {
       display: grid;
       gap: var(--spacing-sm);
