@@ -5,7 +5,7 @@
 }
 
 :root {
-  --font-size: 18px;
+  --font-size: 20px;
 
   --green: hsl(75, 94%, 57%);
   --grey-700: hsl(0, 0%, 20%);
@@ -57,7 +57,7 @@ main {
   gap: var(--spacing-md-1);
   justify-self: center;
   padding: var(--spacing-lg);
-  width: clamp(15rem, 100%, 22rem);
+  width: clamp(15rem, 100%, 20rem);
 
   .profile-card__header,
   .profile-card__social-media {
